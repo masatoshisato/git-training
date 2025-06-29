@@ -1,0 +1,1 @@
+This file is to test command "git checkout" for ignored this file.
